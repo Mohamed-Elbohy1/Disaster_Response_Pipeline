@@ -1,7 +1,13 @@
 # Disaster_Response_Pipeline
 
 
+## Description
 
+We will create a model to classify messages sent during disasters in this project. Aid-related, medical assistance, search-and-rescue, and other categories are among the 36 pre-defined categories. We can classify these messages and send them to the relevant disaster assistance agency by classifying them. To make the process easier, this project will include the creation of a simple ETL and Machine Learning pipeline. Because a message can belong to one or more categories, this is also a multi-label classification task. We'll be using a data collection given by [Figure Eight](https://www.figure-eight.com/) that includes genuine texts sent during disasters.
+
+Finally, this project includes a web application that allows you to enter a message and receive classification results.
+
+![Screenshot](./snaps/WebAppScreen.PNG)
 
 
 ## Files
