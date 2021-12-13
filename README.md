@@ -7,7 +7,7 @@ We will create a model to classify messages sent during disasters in this projec
 
 Finally, this project includes a web application that allows you to enter a message and receive classification results.
 
-![Screenshot](snaps/WebAppScreen.PNG)
+![Screenshot](snaps/WebAppScreen.png)
 
 
 ## Files
