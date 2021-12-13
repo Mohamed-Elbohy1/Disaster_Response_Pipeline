@@ -25,6 +25,8 @@ Finally, this project includes a web application that allows you to enter a mess
                 |-- process_data.py
           |-- models
                 |-- train_classifier.py
+          |-- snaps
+                |-- WebAppScreen.png
 
           |-- README
           |-- License
@@ -34,8 +36,9 @@ Finally, this project includes a web application that allows you to enter a mess
 1. App folder including the templates folder and "run.py" for the web application
 2. Data folder containing "InsertDadabaseName.db", "disaster_categories.csv", "disaster_messages.csv" and "process_data.py" for data cleaning and transfering.
 3. Models folder including "classifier.pkl" and "train_classifier.py" for the Machine Learning model.
-4. README file
-5. License file
+4. snaps folder for web app snapshot
+5. README file
+6. License file
 
 ## Instructions
 1. Run the following commands in the project's root directory to set up your database and model.
