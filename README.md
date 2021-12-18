@@ -64,11 +64,11 @@ Finally, this project includes a web application that allows you to enter a mess
 
 2. This is an example of a message we may use to test the model's performance.
 
-![Sample Input](screenshots/sample_input.png)
+![Sample Input](snaps/sample_input.png)
 
 3. We can see the categories to which the message belongs highlighted in green after clicking **Classify Message**.
 
-![Sample Output](screenshots/sample_output.png)
+![Sample Output](snaps/sample_output.png)
 
 
 
