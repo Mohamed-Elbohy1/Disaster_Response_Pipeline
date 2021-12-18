@@ -53,3 +53,24 @@ Finally, this project includes a web application that allows you to enter a mess
     `python run.py`
 
 3. Go to http://0.0.0.0:3001/
+
+
+
+## Snaps
+
+1. Some graphs concerning the training dataset may be found on the main page.
+
+![Main Page](snaps/main_page.png)
+
+2. This is an example of a message we may use to test the model's performance.
+
+![Sample Input](screenshots/sample_input.png)
+
+3. We can see the categories to which the message belongs highlighted in green after clicking **Classify Message**.
+
+![Sample Output](screenshots/sample_output.png)
+
+
+
+
+
