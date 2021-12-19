@@ -60,7 +60,7 @@ Finally, this project includes a web application that allows you to enter a mess
 
 1. Some graphs concerning the training dataset may be found on the main page.
 
-![Main Page](snaps/main_page.png)
+![Main Page](snaps/main.png)
 
 2. This is an example of a message we may use to test the model's performance.
 
