@@ -27,6 +27,9 @@ Finally, this project includes a web application that allows you to enter a mess
                 |-- train_classifier.py
           |-- snaps
                 |-- WebAppScreen.png
+                |-- main.png
+                |-- sample_input.png
+                |-- sample_output.png
 
           |-- README
           |-- License
