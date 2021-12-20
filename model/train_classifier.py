@@ -11,8 +11,10 @@
         1) SQLite destination database path (e.g. dInsertDatabaseName.db) 
         2) Pickle file name where ML model should be saved (e.g. classifier.pkl)
 """
-
 import sys
+import numpy as np
+import pandas as pd
+from sqlalchemy import create_engine
 
 
 def load_data(database_filepath):
